@@ -1,9 +1,0 @@
-ls
-git clone (shift + insert)
-git status
-git add Project
-git status
-git commit -m "first commit"
-git log
-git push origin master
-git log
